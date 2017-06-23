@@ -85,7 +85,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -97,7 +97,7 @@
   top:0px;
   width:375px;
   height:64px;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -1682,14 +1682,14 @@
   left:0px;
   top:0px;
   width:231px;
-  height:23px;
+  height:25px;
 }
 #u4006 {
   position:absolute;
   left:73px;
   top:282px;
   width:231px;
-  height:23px;
+  height:25px;
   font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
@@ -2007,7 +2007,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:83px;
+  height:64px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -2036,7 +2036,7 @@
   left:410px;
   top:0px;
   width:375px;
-  height:83px;
+  height:64px;
   font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
@@ -2046,7 +2046,7 @@
 #u4031 {
   position:absolute;
   left:0px;
-  top:39px;
+  top:30px;
   width:375px;
   word-wrap:break-word;
 }
@@ -2055,20 +2055,20 @@
   left:0px;
   top:0px;
   width:363px;
-  height:17px;
+  height:13px;
 }
 #u4032 {
   position:absolute;
   left:416px;
-  top:5px;
+  top:4px;
   width:363px;
-  height:17px;
+  height:13px;
   opacity:0.8;
 }
 #u4033 {
   position:absolute;
   left:2px;
-  top:0px;
+  top:-2px;
   width:359px;
   visibility:hidden;
   word-wrap:break-word;
@@ -2083,7 +2083,7 @@
 #u4035 {
   position:absolute;
   left:423px;
-  top:37px;
+  top:29px;
   width:25px;
   height:25px;
 }
@@ -2129,7 +2129,7 @@
 #u4038 {
   position:absolute;
   left:410px;
-  top:83px;
+  top:64px;
   width:375px;
   height:67px;
 }
@@ -2159,7 +2159,7 @@
 #u4040 {
   position:absolute;
   left:416px;
-  top:90px;
+  top:71px;
   width:234px;
   height:16px;
   text-align:left;
@@ -2189,7 +2189,7 @@
 #u4042 {
   position:absolute;
   left:416px;
-  top:118px;
+  top:99px;
   width:234px;
   height:16px;
   text-align:left;
@@ -2211,7 +2211,7 @@
 #u4044 {
   position:absolute;
   left:743px;
-  top:118px;
+  top:99px;
   width:30px;
   height:24px;
 }
@@ -2254,7 +2254,7 @@
 #u4047 {
   position:absolute;
   left:410px;
-  top:150px;
+  top:141px;
   width:375px;
   height:110px;
 }
@@ -2276,7 +2276,7 @@
 #u4049 {
   position:absolute;
   left:423px;
-  top:160px;
+  top:151px;
   width:97px;
   height:90px;
 }
@@ -2307,7 +2307,7 @@
 #u4051 {
   position:absolute;
   left:530px;
-  top:160px;
+  top:151px;
   width:249px;
   height:50px;
   font-size:12px;
@@ -2338,7 +2338,7 @@
 #u4053 {
   position:absolute;
   left:530px;
-  top:220px;
+  top:211px;
   width:80px;
   height:30px;
   text-align:left;
@@ -2368,7 +2368,7 @@
 #u4055 {
   position:absolute;
   left:705px;
-  top:221px;
+  top:212px;
   width:80px;
   height:30px;
   text-align:right;
@@ -3240,7 +3240,7 @@
 #u4109 {
   position:absolute;
   left:410px;
-  top:267px;
+  top:261px;
   width:375px;
   height:110px;
 }
@@ -3262,7 +3262,7 @@
 #u4111 {
   position:absolute;
   left:423px;
-  top:277px;
+  top:271px;
   width:97px;
   height:90px;
 }
@@ -3293,7 +3293,7 @@
 #u4113 {
   position:absolute;
   left:530px;
-  top:277px;
+  top:271px;
   width:249px;
   height:50px;
   font-size:12px;
@@ -3324,7 +3324,7 @@
 #u4115 {
   position:absolute;
   left:530px;
-  top:337px;
+  top:331px;
   width:80px;
   height:30px;
   text-align:left;
@@ -3354,7 +3354,7 @@
 #u4117 {
   position:absolute;
   left:705px;
-  top:338px;
+  top:332px;
   width:80px;
   height:30px;
   text-align:right;
@@ -3370,7 +3370,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:370px;
+  width:375px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -3384,9 +3384,9 @@
 }
 #u4119 {
   position:absolute;
-  left:413px;
-  top:381px;
-  width:370px;
+  left:409px;
+  top:387px;
+  width:375px;
   height:40px;
   color:#FF0033;
   text-align:left;
@@ -3395,7 +3395,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:366px;
+  width:371px;
   word-wrap:break-word;
 }
 #u4121 {
